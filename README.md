@@ -1,5 +1,5 @@
 # Money Saver AI
-Money Saver AI is my AI idea for [Building AI](https://buildingai.elementsofai.com) course. 
+Money Saver AI is my AI idea for [Building AI](https://buildingai.elementsofai.com) course project. 
 
 ## Summary
 
