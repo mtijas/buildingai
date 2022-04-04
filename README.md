@@ -1,5 +1,9 @@
 # Money Saver AI
-Money Saver AI is my AI idea for [Building AI](https://buildingai.elementsofai.com) course. It's basically an automatic spending tracker with meaningful notifications and spending reporting based on machine learned spending habits from actual expense/income data fetched from customer's bank.
+Money Saver AI is my AI idea for [Building AI](https://buildingai.elementsofai.com) course. 
+
+## Summary
+
+Money Saver AI basically an automatic spending tracker with meaningful notifications and spending reporting based on machine learned spending habits from actual expense/income data fetched from the user's bank. The basic idea is to help people save money in a fun and easy way.
 
 ## Background
 
